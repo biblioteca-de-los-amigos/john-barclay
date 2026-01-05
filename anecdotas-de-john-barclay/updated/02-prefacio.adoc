@@ -25,6 +25,8 @@ algunas muy leves libertades con el texto de los autores.
 El compilador también añade, que de algunas observaciones que se ha atrevido a insertar,
 él es sin duda alguna, el único responsable.
 
+[.signed-section-signature]
 John Barclay
 
+[.signed-section-context-close]
 Londres, noveno día del quinto mes.

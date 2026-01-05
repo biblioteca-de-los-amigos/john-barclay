@@ -1,12 +1,16 @@
 == Capítulo IV
 
+[.centered]
 === Extractos de la Vida de James Gough Acerca del Estado de nuestra Sociedad
 
-"`Como Dios dijo: Habitaré y andaré entre ellos, y seré su Dios, y ellos serán mi pueblo.
+[.embedded-content-document]
+--
+
+[.centered]
+__"`Como Dios dijo: Habitaré y andaré entre ellos, y seré su Dios, y ellos serán mi pueblo.
 Por lo cual, salid de en medio de ellos, y apartaos, dice el Señor,
 y no toquéis lo inmundo; y yo os recibiré, y seré para vosotros por Padre,
-y vosotros me seréis hijos e hijas, dice el Señor Todopoderoso.`"
-2 Corintios 6:16-17
+y vosotros me seréis hijos e hijas, dice el Señor Todopoderoso.`"__ 2 Corintios 6:16-17
 
 Por medio de este llamado nuestros honorables predecesores, en el principio,
 fueron separados del espíritu y de los caminos del mundo,
@@ -112,7 +116,13 @@ la integridad y el vigor para levantar "`jueces como al principio,
 y consejeros como eran antes.`"^
 footnote:[Isaías 1:26]
 
+--
+
+[.centered]
 === Relato de Thomas Chalkley sobre su infancia
+
+[.embedded-content-document]
+--
 
 No puedo olvidar los tratos de Dios conmigo en mis años más tiernos.
 Cuando tenía entre ocho y diez años,
@@ -161,6 +171,9 @@ hablara de esa manera.
 Recuerdo que experimenté mucha paz y satisfacción. Desde entonces,
 estos hombres me dejaron en paz.
 
+--
+
+[.centered]
 === Anécdota de William Penn
 
 William Penn, durante una estación de intenso frío,
@@ -179,9 +192,14 @@ pues daba gracias por haber recibido provisión en aquella región salvaje.
 Este hecho dejó una impresión tan fuerte en la mente del joven,
 que no se borró ni siquiera en su vejez.
 
+[.centered]
 === El Profesor Inmutable
 
-Tomado de los Memorias de Benjamin Bang
+[.section-author]
+Tomado de los [.book-title]#Memorias de Benjamin Bang#
+
+[.embedded-content-document]
+--
 
 Una vez concluida la reunión semestral de Dublín, en el tercer mes de 1683,
 tuve la intención de regresar a Inglaterra, y para ello,
@@ -244,9 +262,16 @@ junto con muchas más palabras para este efecto.
 Ellos quedaron muy satisfechos con este discurso, y mientras partían,
 declararon que jamás en sus vidas habían oído estas cosas expuestas con tanta claridad.
 
+--
+
+[.centered]
 === La Mejor Ancla para un Marinero
 
-Tomado del Diario de Thomas Chalkley
+[.section-author]
+Tomado del [.book-title]#Diario de Thomas Chalkley#
+
+[.embedded-content-document]
+--
 
 Al cabo de unos meses, le dije a mi esposa, a mi padre y a los padres de ella,
 que consideraba mi deber cruzar el océano e ir a vivir a América.
@@ -307,12 +332,19 @@ y el mar se alzaba prodigiosamente rompiendo sobre ellos con gran fuerza,
 de modo que nos vimos obligados a dejar nuestros cables y anclas,
 y dirigirnos a Deal lo mejor que pudimos.
 
+--
+
+[.centered]
 === Confianza en la Providencia
 
+[.section-author]
 Del mismo Autor
 
+[.embedded-content-document]
+--
+
 Tras haber terminado mis asuntos en Inglaterra,
-me embarqué en la goleta Dove rumbo a Filadelfia,
+me embarqué en la goleta _Dove_ rumbo a Filadelfia,
 pues me había sido asignada tanto en este viaje como en el anterior.
 Como el viento estaba calmado y era escaso, nuestras provisiones empezaron a escasear.
 Éramos unas doce personas en la embarcación,
@@ -354,6 +386,9 @@ De ese modo vi que era bueno depender del Todopoderoso y confiar en Su eterno br
 el cual, nos preservó de manera particular hasta llegar hasta nuestro puerto deseado.
 ¡Bendito sea Su grande y glorioso nombre por Cristo para siempre!
 
+--
+
+[.centered]
 === Richard Davies
 
 Cuando Richard Davies viajaba a Pembrokeshire por motivos religiosos,
@@ -362,6 +397,9 @@ en Carmarthenshire,
 y algunos amigos los acompañaron hasta ahí. Varios magistrados
 del lugar asistieron a la reunión y se comportaron muy corteses.
 Richard Davies dice:
+
+[.embedded-content-document]
+--
 
 El peso y el deber de la reunión recayeron especialmente sobre mí, pues,
 aunque nuestro amigo Thomas Ellis había sido reconocido como diácono,
@@ -388,7 +426,13 @@ Tal como fue dicho en el pasado: "`Como Jerusalén tiene montes alrededor de ell
 así Jehová está alrededor de su pueblo,`" para ser
 el pronto auxilio en todo momento de necesidad.
 
+--
+
+[.centered]
 === El Coronel de la Caballería Montada
+
+[.embedded-content-document]
+--
 
 Durante la guerra de independencia de los Estados Unidos,
 una parte del ejército estadounidense acampó cerca
@@ -411,9 +455,16 @@ Y al continuar cediendo a esas convicciones,
 más adelante se unió en comunión con los Amigos,
 y permaneció fiel al principio de la Verdad profesada por ellos.
 
+[.signed-section-signature]
 Los viajes de Sutcliff
 
+--
+
+[.centered]
 === Extracto de una Carta de Anthony Benezet a John Pemberton
+
+[.embedded-content-document]
+--
 
 Es asombroso ver cuánta influencia el amor al mundo, su estima y amistad,
 y el deseo de acumular riquezas, han tenido sobre muchos en nuestra Sociedad,
@@ -482,6 +533,8 @@ Si los seres humanos son verdaderamente nuestros hermanos,
 y lo utilice para alimentar las corrupciones de su descendencia;
 mientras que otros se hallan en gran desventaja por falta de ayuda?
 
+--
+
 La carta antes citada no puede considerarse propiamente una anécdota,
 aunque la circunstancia que se expone en ella parece haber sido la causa
 de esas consideraciones que forman la mayor parte de ella.
@@ -500,9 +553,14 @@ parecen reflejar un corazón bajo la influencia,
 freno y dirección del mejor de los principios, es decir,
 la voluntad de Dios dada a conocer por el Espíritu de Su Hijo.
 
+[.centered]
 === Una Vejez Tranquila y Provechosa
 
-Tomado del Diario de Thomas Chalkley
+[.section-author]
+Tomado del [.book-title]#Diario de Thomas Chalkley#
+
+[.embedded-content-document]
+--
 
 En Virginia, cerca del río James, conocí a un anciano Amigo llamado William Porter.
 Él tenía noventa y dos años,
@@ -514,8 +572,12 @@ que, según recuerdo, decía casi textualmente de la siguiente manera: "`Amigos,
 ustedes han venido a verme en el amor de Dios.
 Dios es amor y los que permanecen en Dios permanecen en amor.
 Doy gracias a Dios porque siento Su divina vida cada día y cada noche.`"
-Vivió para ver casada a su hija antes mencionada; y murió a la edad de ciento siete años.
+Vivió para ver casada a su hija antes mencionada;
+y murió a la edad de ciento siete años.
 
+--
+
+[.centered]
 === William Penn y la Niña Descalza
 
 Mientras William Penn vivía en Pennsylvania,
@@ -541,9 +603,14 @@ estaban tan lejos de rebajarlo ante los ojos de los que gobernaba, que,
 quizás no haya habido nunca un gobernador que gozara de
 mayor estima por parte de los gobernados que William Penn.
 
+[.signed-section-signature]
 Los Viajes de Sutcliff
 
+[.centered]
 === John Woolman y el Petirrojo
+
+[.embedded-content-document]
+--
 
 Algo que marcó mi infancia me sucedió yendo a casa de un vecino,
 cuando vi en el camino a un petirrojo sentado en su nido.
@@ -572,6 +639,8 @@ y al ser atendido de manera íntegra, la persona se vuelve tierna de corazón y 
 pero al ser rechazado con frecuencia y por completo,
 la mente se cierra en una disposición contraria.
 
+--
+
 Este pequeño suceso, registrado en la vida de John Woolman,
 bien puede verse reflejado en la experiencia de muchos jóvenes lectores, quienes,
 en una irresponsable travesura juvenil,
@@ -592,7 +661,11 @@ y mediante la elocuencia persuasiva de su conducta,
 testificaba que su espíritu estaba unido al Padre
 de los espíritus y Preservador de toda carne.
 
+[.centered]
 === Thomas Chalkley y Las Cartas
+
+[.embedded-content-document]
+--
 
 Yo amaba la música, bailar y jugar a las cartas,
 y era perseguido por los juicios de Dios en lo secreto de mi alma, debido a ello.
@@ -635,7 +708,13 @@ todos los cristianos deben evitarlas como instrumentos de Satanás.
 Y como bailar con música generalmente tiende al mismo fin,
 también debe ser rechazado.
 
+--
+
+[.centered]
 === El Instrumento de Dios
+
+[.embedded-content-document]
+--
 
 James Wilson estaba en una reunión en Londres junto con Thomas Wilson,
 donde había una gran concurrencia de personas, y entre ellas dos de alto rango social,
@@ -653,8 +732,12 @@ aquel hombre se levantó y manifestó el deseo de ser perdonado por Thomas y por
 por haber despreciado uno de los más grandes de Sus instrumentos bajo el cielo,
 o en Su creación.
 
-El Diario de Samuel Neale.
+[.signed-section-signature]
+_El Diario de Samuel Neale_
 
+--
+
+[.centered]
 === Exhortación Para Buscar al Señor Desde Temprano
 
 La temprana experiencia de aquellos que han brillado como estrellas fijas
@@ -681,8 +764,8 @@ incluso por aquellos que no pertenecen a la misma profesión religiosa,
 un breve testimonio como el de Thomas Thompson puede resultar
 de gran interés. Porque a través de narrativas como esta,
 uno puede llegar a conocer, en cierta medida,
-la eficacia de esa influencia secreta (que no es de nosotros,
-pero está en nosotros) por la cual todos los hombres
+la eficacia de esa influencia secreta (que no es _de_ nosotros,
+pero está _en_ nosotros) por la cual todos los hombres
 deberían ser guiados tanto en corazón como en conducta,
 y sin la cual toda religión no es más que un nombre vacío.
 
@@ -691,6 +774,9 @@ servicios y sufrimientos por causa de la consciencia--se puede decir mucho.
 Baste decir que vivió hasta los 73 años, y que así como vivió, murió,
 en la plena y completa posesión de esa paz, seguridad y gozo en el Señor Dios de su vida,
 que es la porción de Sus fieles hijos, los seguidores de Jesucristo.
+
+[.embedded-content-document]
+--
 
 Cuando era joven, le plació al Señor inclinar mi corazón a buscarle;
 y cuando tenía alrededor de ocho años, Su palabra resonó en mí, diciendo:
@@ -846,8 +932,12 @@ Aunque padecí y atravesé muchos grandes ejercicios,
 el Señor sustentó mi espíritu y me llevó adelante, mientras me mantuve fiel a Él,
 para alabanza de Su propio nombre.
 
+[.signed-section-signature]
 La Vida de Thomas Thomson
 
+--
+
+[.centered]
 === George Whitehead
 
 George Whitehead, (de quien ya se ha hecho alguna mención,
@@ -916,6 +1006,7 @@ aptos de Aquello que moraba abundantemente en ellos,
 y que era como "`ríos de agua viva.`"^
 footnote:[Juan 7:38]
 
+[.centered]
 === Realidades que Infunden Temor Reverente
 
 Aunque podría decirse que nada o poco de lo insertado en este texto
@@ -928,6 +1019,9 @@ y se incluyen especialmente para aquellos jóvenes miembros de nuestra sociedad.
 Thomas Chalkley, en su regreso de América,
 donde había estado ejerciendo como ministro en varios lugares,
 relata el siguiente pasaje en su diario:
+
+[.embedded-content-document]
+--
 
 Por ese tiempo nuestro doctor tuvo un sueño que él mismo me contó así:
 Soñó que desembarcaba en una ciudad grande y espaciosa,
@@ -1025,7 +1119,13 @@ que su sangre cayó sobre su propia cabeza,
 ya que había sido fielmente advertido de sus malos caminos.
 Esto sucedió alrededor del año 1699.
 
+--
+
+[.offset]
 La otra circunstancia que aparece en el diario de Thomas Chalkley es la siguiente:
+
+[.embedded-content-document]
+--
 
 En este año (1722), estuve en el entierro de nuestro Amigo Jonathan Dickenson,
 en el que tuvimos una gran reunión. Él era un hombre muy querido por sus Amigos y vecinos.
@@ -1066,60 +1166,4 @@ Que los jóvenes puedan ser advertidos,
 para que la mano de Dios puede estar sobre ellos para bien,
 y se ocupen con ternura de su salvación.
 
-Una vez, una compañía de irlandeses llegó a Pall Mall cuando George Fox estaba ahí,
-pero la reunión ya se había disuelto y George Fox se había retirado a su aposento.
-Pero al oír a una de esas personas groseras--un coronel--decir
-que él mataría a todos los Cuáqueros,
-George Fox bajó y le dijo: "`La ley dice: '`Ojo por ojo, diente por diente`';
-pero tú amenazas con matar a todos los Cuáqueros,
-aunque ellos no te hayan hecho daño.`" Y añadió: "`Aquí te mostraré el evangelio:
-Aquí está mi cabello, aquí está mi mejilla,
-y aquí está mi hombro,`" volviéndose hacia él para que pudiera golpearlo si así lo deseaba.
-Esto sorprendió tanto al coronel, que él y sus compañeros se quedaron asombrados,
-y dijeron: "`Si este es tu principio, según dices ahora,
-nunca hemos visto algo igual en nuestras vidas.`"
-A lo cual George Fox dijo: "`Lo que soy en palabras, lo soy en la vida.`"
-Entonces el coronel se comportó cordialmente;
-aunque cierto embajador que había permanecido fuera, y luego había entrado,
-dijo que este coronel irlandés era un hombre tan temerario,
-que no se había atrevido a entrar con él, por temor a que hiciera un gran daño.
-La Historia del Pueblo Llamado Cuáqueros por W. Sewel.
-Los dolorosos sufrimientos y la amarga persecución que tuvieron que padecer quienes
-se unieron en los comienzos de nuestra Sociedad en la fe y práctica religiosas,
-no necesitan ser desarrollados aquí. Nuestros historiadores, especialmente Sewel y Gough,
-pueden ser consultados por quienes deseen familiarizarse
-con la naturaleza y el alcance de estos hechos,
-así como con la paciencia,
-la fortaleza y la mansedumbre cristianas manifestadas por
-nuestros precursores en la profesión de la fe.
-Extraordinaria, sin embargo,
-fue muchas veces la influencia de estos temperamentos
-celestiales sobre aquellos que los contemplaban,
-como se muestra en el ejemplo previo; ese apoyo y fortaleza sobrenaturales,
-que recibían quienes eran fieles a Cristo su Señor,
-a menudo alcanzaban y tocaban los corazones de sus opositores.
-Magistrados en el estrado se mostraban favorables a quienes estaban a punto de condenar,
-y adoptaban la misma conducta y creencia que antes había estado dispuestos a reprobar.
-Los carceleros y otros reconocían y abrazan esas verdades que ellos habían despreciado.
-Y no es de extrañar, si se considera,
-que estos modelos de "`espíritu humilde y apacible`"^
-footnote:[1 Pedro 3:4 RVG]
-prescrito por el evangelio, habían sido, en muchas ocasiones,
-miserables esclavos de sus propias inclinaciones y pasiones corruptas.
-Algunos de ellos, además,
-de esa naturaleza fiera y bulliciosa que no tolera la más mínima provocación;
-pero que después, tan golpeados por los terrores del Señor por causa de sus pecados,
-tan humillados bajo el poder de la cruz de Cristo,
-llegaron a revestirse del pacífico e inofensivo espíritu del Cordero,
-sobrellevando todos los ultrajes de sus enemigos con una mente tranquila,
-y con un comportamiento amable y compasivo.
-Tales hechos no se exponen con el fin de atribuir estos excelentes
-"`frutos de justicia`" a una denominación o grupo en particular,
-sino más bien para exaltar ese poder y gracia celestiales que,
-mediante el único y gran Sacrificio por el pecado, han sido comprados para todos,
-y de los cuales con toda certeza pueden participar, en una u otra medida,
-todos los que estén dispuestos a recibirlos,
-sea cual sea la condición en la que se encuentren,
-o la dispensación por la que estén atravesando.
-El relato que sigue es parecido al anterior,
-y ayuda a reforzar las observaciones expuestas.
+--

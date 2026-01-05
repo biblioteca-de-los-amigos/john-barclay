@@ -1,5 +1,6 @@
 == Capítulo III
 
+[.centered]
 === Relato de William Crouch
 
 William Crouch, ha dejado registrado en su historia,
@@ -7,6 +8,9 @@ un relato que se considera de gran interés,
 para aquellos lectores que aman ver el surgimiento y la manifestación de la sagrada
 Verdad en sus diversas y sucesivas expresiones sobre la tierra.
 Como se relata a continuación:
+
+[.embedded-content-document.letter]
+--
 
 A principios del año 1654,
 algunas manifestaciones del poder de la Verdad comenzaron a sentirse entre
@@ -87,10 +91,16 @@ a saber: Thomas Aldam, Christopher Atkinson, Richard Hubberthorn, George Fox,
 Alexander Parker, John Stubbs, Thomas Salthouse y otros más,
 quienes publicaron y declararon la palabra del Señor con libertad.
 
+--
+
+[.centered]
 === Testimonio de George Fox sobre Thomas Taylor
 
 George Fox declaró por escrito un testimonio respecto a Thomas Taylor,
 del cual se transcribe una parte a continuación.
+
+[.embedded-content-document.testimony]
+--
 
 Él había sido un eminente párroco, y uno de renombre entre los profesantes y sacerdotes,
 así como un conferencista en distintas partes del territorio,
@@ -140,6 +150,8 @@ Abandonó la casa del campanario de su parroquia, su antiguo salario parroquial,
 y al resto de los sacerdotes que predicaban por sueldo;
 y viajó por las distintas partes de Inglaterra,
 predicando la palabra del Señor y Su Evangelio por gracia, como le fue ordenado.
+
+--
 
 El relato anterior es el de un hombre sencillo sobre un hecho sencillo.
 No se caracteriza por la belleza o el poder del lenguaje; sin embargo,
@@ -232,6 +244,7 @@ que uno podría imaginar que su origen y educación fueron tan humildes
 y ordinarios como los de Aquel que fue llamado el "`Hijo del carpintero`",
 o como los de sus apóstoles pescadores.
 
+[.centered]
 === Anécdota de la Vida de John Richardson
 
 El gobernador de Virginia quería un tonelero para reparar sus barriles de vino,
@@ -246,6 +259,9 @@ y le preguntó si él era el tonelero que había enviado a buscar.
 él le preguntó: "`¿Desde cuándo te llaman Cuáquero`"? El pobre hombre dijo:
 "`Cerca de veinte años`". "`Ay de ti, pobre hombre`", dijo el gobernador,
 "`¡siento pena por ti!`"
+
+[.embedded-content-document]
+--
 
 Con esto podemos ver con claridad +++[+++señala John Richardson],
 que los que caminan acorde con lo que profesan se hallan
@@ -265,7 +281,13 @@ que no desee ocultarse,
 sino que los habitantes de la tierra puedan ver nuestras buenas obras, y a partir de ahí,
 tengan motivos para dar gloria al Padre que está en los cielos.
 
+--
+
+[.centered]
 === Anécdota de la Vida de Thomas Ellwood
+
+[.embedded-content-document]
+--
 
 Mientras estaba en Londres,
 asistí a una pequeña reunión de los Amigos que se
@@ -296,6 +318,9 @@ que al tener las solapas recogidas,
 se veía un tanto superior al atuendo común de un Cuáquero;
 y esto me hizo perder el gusto por mi gorro.
 
+--
+
+[.centered]
 === Samuel Bownas
 
 Samuel Bownas recibió una educación religiosa,
@@ -332,8 +357,9 @@ a las conversaciones necias y a giros ingeniosos para provocar alegría,
 cosas que el apóstol nos dice que no son convenientes.^
 footnote:[Efesios 5:4]
 A menudo se daba cuenta de esto una vez que todo había terminado,
-y que "`el término de la alegría es congoja`"^
-footnote:[Proverbios 14:13]. Sin embargo, el Señor, que es rico y grande en misericordia,
+y que "`el término de la alegría es congoja.`"^
+footnote:[Proverbios 14:13]
+Sin embargo, el Señor, que es rico y grande en misericordia,
 incluso con los rebeldes, lo visitó de una manera tan extraordinaria, la cual, sin duda,
 recordó con gratitud durante toda su vida,
 ya que parece haber sido el medio para despertarlo a la conciencia de su condición,
@@ -381,6 +407,7 @@ De manera que, en un corto tiempo,
 el Señor lo cargó con la inquietud de predicar esas verdades a otros;
 y mediante la fidelidad en ese servicio, su ministerio fue de bendición para muchos.
 
+[.centered]
 === Humphrey Smith
 
 Humphrey Smith,
@@ -410,6 +437,9 @@ alguno de los Amigos en la época de la que habla aquí;
 de hecho,
 él se volvió un predicador público entre los más destacados profesantes de aquel tiempo,
 antes de unirse a nuestra Sociedad.
+
+[.embedded-content-document]
+--
 
 Esto sé con certeza, que en muchos tiernos bebés y niños pequeños hay una semilla mansa,
 inocente e inofensiva de Dios, que no quiere la muerte de nadie;
@@ -552,8 +582,9 @@ En esto también he tenido mucha experiencia.
 Porque, siendo muy joven, vi con mucha claridad la vanidad de las palabras innecesarias,
 y por mucho tiempo fui muy reacio a hablar;
 y como en esto y en algunas otras cosas me diferenciaba mucho de los demás niños,
-muchos pensaron que era un tonto, como dice los que desprecian "`lo insensato de Dios`"^
-footnote:[1 Corintios 1:25]. Por ello, se usaron muchos medios para forzarme a hablar,
+muchos pensaron que era un tonto, como dice los que desprecian "`lo insensato de Dios.`"^
+footnote:[1 Corintios 1:25]
+Por ello, se usaron muchos medios para forzarme a hablar,
 y muchas provocaciones una y otra vez, y sin embargo,
 casi nada me hacía decir una palabra, porque veía que era innecesario.
 Tampoco podía preguntarle a un hombre cómo estaba, cuando veía que estaba bien,
@@ -593,10 +624,10 @@ ni los molesten cuando están dispuestos a estar tranquilos;
 porque muchos no se contentan con ver a sus hijos sobrios y quietos,
 sino que los provocan a la ligereza y a los placeres vanos,
 cuando ellos preferirían ser sobrios como corderos.
-Porque está escrito: "`En descanso y en reposo seréis salvos`"^
+Porque está escrito: "`En descanso y en reposo seréis salvos.`"^
 footnote:[Isaías 30:15], y procuren "`tener tranquilidad`"^
 footnote:[1 Tesalonicenses 4:11], y "`meditad en vuestro corazón, y callad`"^
-footnote:[Salmo 4:4].
+footnote:[Salmo 4:4]
 
 Cuando era niño, a menudo me sentaba en silencio por largos períodos de tiempo,
 reflexionando muchas cosas en mi mente, y a medida que crecía, si no era interrumpido,
@@ -617,21 +648,24 @@ me iba a los bosques o a un lugar apartado para que nadie me pudiera encontrar,
 y allí esperaba en silencio tres o cuatro horas;
 y a veces el amor de Dios me quebrantaba y Su palabra ablandaba mi corazón,
 y sentía entonces lo mismo que ahora se ha convertido en mi vida; porque ahora sé,
-que los que esperan en el Señor "`tendrán nuevas fuerzas`"^
+que los que esperan en el Señor "`tendrán nuevas fuerzas,`"^
 footnote:[Isaías 40: 31];
 y que aunque esté escrito que el Señor estaba cansado
 de los sacrificios del pueblo y de sus palabras^
-footnote:[Malaquías 2:17], aun así,
+footnote:[Malaquías 2:17]
+aun así,
 nunca fue escrito que el Señor se cansara de los que esperaban en Él.
 
 Por lo tanto, ustedes deberían permitirles a sus hijos esperar en Dios,
 o al menos estar en silencio,
-porque "`lo que se conoce acerca de Dios es evidente dentro de ellos`"^
-footnote:[Romanos 1:19 NBLH]. El Señor no se ha dejado sin un testimonio en cada conciencia,
+porque "`lo que se conoce acerca de Dios es evidente dentro de ellos.`"^
+footnote:[Romanos 1:19 NBLH]
+El Señor no se ha dejado sin un testimonio en cada conciencia,
 porque Cristo ha sido dado como un Testigo, y Su luz resplandece en sus corazones.
 Él dice: "`Venid a Mí`" y "`Aprended de Mí`";
-porque Él es el Pastor y Obispo de las almas, el cual "`enseña a todos provechosamente`"^
-footnote:[Isaías 48:17]. Y Él es ese verdadero Profeta del que habló Moisés,
+porque Él es el Pastor y Obispo de las almas, el cual "`enseña a todos provechosamente.`"^
+footnote:[Isaías 48:17]
+Y Él es ese verdadero Profeta del que habló Moisés,
 y cualquiera que no quiera oírlo, su alma será cortada.
 Efectivamente,
 mi alma fue cortada de la vida cuando fui forzado a dejar de oír Su voz en mí;
@@ -671,8 +705,9 @@ Este es el don que viene de Dios y no es dado a los
 niños por los hombres o por el aprendizaje humano.
 Pero los hombres por sus discursos elocuentes y vanos engaños pueden
 fácilmente alejar a los niños de la Semilla que está en ellos,
-y así quebrantar el mandamiento de Cristo, quien dijo: "`No salgáis`"^
-footnote:[Mateo 24:26]. Y cuando ellos son desviados
+y así quebrantar el mandamiento de Cristo, quien dijo: "`No salgáis.`"^
+footnote:[Mateo 24:26]
+Y cuando ellos son desviados
 tras los "`Helo aquí`" y "`Helo allí`",
 lejos de la Roca que es Cristo,
 y del cimiento seguro que Dios ha puesto y que ningún hombre puede poner otro,
@@ -721,8 +756,9 @@ más bien sean ejemplos de justicia para ellos en todas sus palabras y acciones.
 Si ustedes no tienen la posibilidad de enviarlos a la escuela a aprender a leer, aun sí,
 ellos ya tienen la luz de Cristo en sus corazones,
 y eso les hablará claramente acerca del Padre, porque "`el viajero, por torpe que sea,
-no se extraviará`"^
-footnote:[Isaías 35:8]. Y aunque los envíen a la escuela
+no se extraviará.`"^
+footnote:[Isaías 35:8]
+Y aunque los envíen a la escuela
 por mucho tiempo para aprender a leer y a escribir,
 y con lo que aprenden escudriñan las Escrituras, lo cual es bueno, aun así,
 ellos deben ir a Cristo la Luz para tener vida, y deben aprender de Él y seguirlo,
@@ -733,6 +769,7 @@ Entonces les irá bien y recibirán bendición de Dios,
 y serán una bendición para sus padres que temen al Señor,
 y al final descansarán en paz y reposo en el pacto eterno de Dios.
 
+[.centered]
 === Enfermedad de John Woolman
 
 En la historia de su vida,
@@ -746,6 +783,9 @@ que confíe en el Dios viviente y esté rendido a sobrellevar y a hacer Su volun
 porque "`bienaventurados los que guardan sus mandamientos,
 para tener derecho al árbol de la vida`".^
 footnote:[Apocalipsis 22:14 RVG]
+
+[.embedded-content-document]
+--
 
 Le plació al Señor visitarme con pleuresía;
 y después de haber permanecido acostado por unos días,
@@ -777,3 +817,5 @@ Sentí en el manantial del amor puro, que debía permanecer por un tiempo más e
 cumpliendo según mi medida, lo que queda de las aflicciones de Cristo,
 y ocupándome del bienestar de la iglesia;
 después de lo cual le pedí a mi cuidadora que aplicara calor a mis pies, y reviví.
+
+--
