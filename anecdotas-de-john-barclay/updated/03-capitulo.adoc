@@ -1,8 +1,6 @@
 == Capítulo I
 
-George Fox y el Carcelero--William Callow--Lord Baltimore--John
-Richardson--Fidelidad Bajo Persecución--Richard Davies.
-
+[.centered]
 === George Fox y el Carcelero
 
 En el año 1650, George Fox fue puesto en prisión en Derby,
@@ -14,6 +12,9 @@ Pero George se mantenía en una conducta tan inocente y prudente,
 que aunque sus palabras y acciones eran cuidadosamente observadas,
 no se le podía achacar ninguna falta.
 Lo siguiente está expresado en sus propias palabras:
+
+[.embedded-content-document]
+--
 
 Le plació al Señor golpear un día al carcelero,
 de modo que estaba bajo gran angustia y terror mental.
@@ -42,7 +43,10 @@ que los tormentos estaban sobre ellos también por retenerme.
 Este fue el juez Bennet de Derby, quién fue el primero en llamarnos Cuáqueros,
 porque les dije que debían temblar ante la palabra del Señor.
 
+[.signed-section-signature]
 Diario de George Fox
+
+--
 
 Cabe señalar al lector,
 que este arrepentido carcelero se unió más adelante a la sociedad de los Amigos,
@@ -61,7 +65,11 @@ Así se cumple el antiguo proverbio que declara:
 "`Los juicios están preparados para los escarnecedores.`"^
 footnote:[Proverbios 19: 29 LBLA]
 
+[.centered]
 === William Callow
+
+[.embedded-content-document]
+--
 
 W+++.+++ Callow fue detenido en la Isla de Man por ocho semanas, en el año 1657,
 por haber reprendido a un sacerdote,
@@ -134,8 +142,12 @@ pescaron tanto como fueron capaces de traer hasta la orilla,
 de modo que tuvieron razones para reconocer con agradecimiento
 la extraordinaria providencia que los ayudaba.
 
-La Historia del Pueblo llamado Cuáqueros por John Gough
+[.signed-section-signature]
+__La Historia del Pueblo llamado Cuáqueros__ por John Gough
 
+--
+
+[.centered]
 === Lord Baltimore
 
 Lord Baltimore junto con su señora y su séquito,
@@ -144,7 +156,7 @@ a la cual, siendo la reunión anual, William Penn los acompañó. Pero al llegar
 cuando empezaba a desvanecerse la fuerza y la gloria
 del poder celestial del Señor de la reunión,
 la dama se sintió muy decepcionada,
-y le dijo a William Penn que ella no quería oírlo a él ni a nadie como él,
+y le dijo a William Penn que ella no quería oírlo _a él_ ni a nadie como él,
 pues era un erudito y un hombre sabio, y no dudaba de que pudiera predicar;
 pero que quería oír predicar a algunos de los mecánicos, campesinos,
 zapateros y personas rústicas por el estilo,
@@ -152,6 +164,7 @@ pues pensaba que no podían predicar en absoluto.
 William le dijo, que algunos de ellos eran de hecho,
 los mejores predicadores que había entre ellos.
 
+[.centered]
 === John Richardson
 
 La siguiente narración del diario de John Richardson,
@@ -163,6 +176,9 @@ que te enseña provechosamente, que te encamina por el camino que debes seguir.
 ¡Oh, si hubieras atendido a mis mandamientos!
 Fuera entonces tu paz como un río, y tu justicia como las ondas del mar.`"^
 footnote:[Isaías 48: 17-18]
+
+[.embedded-content-document]
+--
 
 Teniendo en mente visitar una reunión río arriba en un lugar llamado Perquimus,
 en el lado oeste del río Choptank, y estando yo en el lado este,
@@ -241,6 +257,9 @@ pero el Señor nos ha dado fe y paciencia para soportarlo y vencerlo todo,
 a medida que nos hemos mantenido firmes en su consejo celestial,
 y hemos sido verdaderamente devotos a Su voluntad en todas las cosas.
 
+--
+
+[.centered]
 === Fidelidad Bajo Persecución
 
 El mismo obrero del Evangelio, de joven fue dejado por la muerte de su padre,
@@ -282,7 +301,11 @@ pues ya que todo lo que podía hacer no le daría contentamiento
 sin herir su conciencia o la paz de su mente,
 lo cual dijo, que valoraba por encima de todas las cosas mutables de este mundo.
 
+[.offset]
 John Richardson prosigue así en su relato:
+
+[.embedded-content-document]
+--
 
 A pesar de que yo le supliqué a mi padrastro que me dejara
 quedarme hasta que tuviera noticias de algún lugar,
@@ -342,6 +365,9 @@ y esto fue un gran medio para fijar mi mente y establecerla en la Verdad,
 con plena intención de corazón de seguir al Señor y obedecer Sus requisitos,
 según me daba conocimiento y habilidad.
 
+--
+
+[.centered]
 === Richard Davies
 
 Algunas circunstancias asociadas con los primeros
@@ -359,6 +385,9 @@ adjuntos en su diario, reflejan su aprecio, y el extracto de uno ellos,
 puede ser suficiente para mostrar cuán estimados
 eran esos esforzados obreros por sus sucesores:
 
+[.embedded-content-document.testimony]
+--
+
 ¡Oh, la maravillosa sabiduría y amor de Dios,
 que lo llamó a él y a muchos otros en aquellos días,
 y los preparó y capacitó para la gran obra que tenían que hacer,
@@ -370,11 +399,16 @@ Ciertamente, su memoria es digna de ser registrada,
 para que las generaciones venideras puedan ver lo que el Señor ha hecho por sus fieles,
 quienes dieron sus vidas, y todo lo que tenían por causa de la Verdad.
 
+--
+
 El siguiente abstracto es más extenso de lo que me hubiera gustado incluir;
 pero como está elaborado para esclarecer muchos puntos
 de nuestro testimonio y práctica Cristianos,
 y presentado por alguien que se convirtió en un padre para muchos,
 incluso un apóstol y obispo del rebaño en aquel país, no me pareció oportuno abreviarlo.
+
+[.embedded-content-document]
+--
 
 Cerca del año 1656,
 nuestros ministros nos dijeron que había aparecido un tipo de pueblo en el norte,
@@ -419,8 +453,8 @@ y él vio que había alcanzado al testigo de Dios en mí. Luego me
 exhortó a prestar atención a esa Luz que brilla en mi corazón,
 y me muestra mis pensamientos vanos,
 y me reprueba en lo secreto por cada palabra o acción ociosa; diciendo,
-que esa era la luz verdadera que alumbra a cada hombre que viene al mundo (Juan 1:9);
-y que en esa Luz, yo vería más Luz, y que ella abriría las Escrituras para mí,
+que _esa_ era la luz verdadera que alumbra a cada hombre que viene al mundo (Juan 1:9);
+y que en esa Luz, yo vería más Luz, y que _ella_ abriría las Escrituras para mí,
 y que yo recibiría una medida de ese mismo Espíritu que las había escrito.
 También me dijo, que era la palabra profética más segura,
 a la que yo haría bien en prestar atención,
@@ -505,7 +539,7 @@ Puesto que Él es la vida, también es el camino al Padre: "`Yo soy el camino, y
 y la vida; nadie viene al Padre, sino por mí.`"^
 footnote:[Juan 14:6]
 En cuanto a las Escrituras, yo era un gran amante y un gran lector de ellas,
-y me deleitaba mucho escudriñándolas, pensando que eso me haría sabio para la salvación;
+y me deleitaba mucho escudriñándolas, pensando que _eso_ me haría sabio para la salvación;
 tal como Pablo le dijo a Timoteo:
 "`y que desde la niñez has sabido las Sagradas Escrituras,
 las cuales te pueden hacer sabio para la salvación por la fe que es en Cristo Jesús.`"^
@@ -514,7 +548,7 @@ Sin embargo, me faltaba lo principal, la fe verdadera y salvadora que es don de 
 "`Porque por gracia sois salvos por medio de la fe; y esto no de vosotros,
 pues es don de Dios.`"^
 footnote:[Efesios 2: 8]
-De modo que es la gracia de Dios la que trae salvación,
+De modo que es _la gracia de Dios_ la que trae salvación,
 y no el simple conocimiento histórico de las Escrituras.
 
 Puede que los hombres tengan un gran conocimiento literal de las Escrituras,
@@ -566,7 +600,7 @@ Dios me mostró las vanas costumbres de las personas,
 y que nuestro lenguaje no era acorde con el lenguaje del
 pueblo de Dios registrado en las Escrituras de la Verdad.
 Y aunque tenía poco conocimiento en gramática,
-sabía cuán inadecuado era decir ustedes para una persona, en lugar de tú.^
+sabía cuán inadecuado era decir _ustedes_ para una persona, en lugar de _tú_.^
 footnote:[La mayoría de los angloparlantes modernos desconocen
 que las palabras "`you`" y "`your`" eran originalmente pronombres
 plurales que se utilizaban sólo para dirigirse a dos o más personas,
@@ -585,7 +619,7 @@ pero muchos miles de los primeros Amigos fueron insultados, golpeados,
 encarcelados y hasta matados por negarse a conformarse a esas costumbres externas.]
 
 Así, por motivos de conciencia,
-me sentí obligado a hablar el lenguaje puro de ti y tu con todos,
+me sentí obligado a hablar el lenguaje puro de _ti y tu_ con todos,
 sin acepción de personas, lo que era una gran cruz para mí,
 aunque algunos lo consideraban como algo débil y tonto.
 Sin embargo, cuando el Señor impone la necesidad de hablar la verdad a todos,
@@ -657,7 +691,8 @@ Esperábamos la palabra viva,
 que llegaba a nosotros con una voz viva de Aquel que habla desde el cielo
 por Su Espíritu--la voz viva que es la voz de "`Cristo en nosotros,
 la esperanza de gloria`"^
-footnote:[Colosenses 1:27]--cuya voz estimábamos más que nuestro alimento necesario.
+footnote:[Colosenses 1:27]
+--cuya voz estimábamos más que nuestro alimento necesario.
 Por obedecer esta voz, llegamos a ser objeto de burla y escarnio;
 ellos hablaban toda clase de mal contra nosotros,
 aborreciéndonos por causa de Su nombre.^
@@ -928,4 +963,7 @@ footnote:[Ver Génesis 28:20]
 Y el Señor estuvo con nosotros en todo nuestro viaje,
 y nos dio Su dulce y consoladora presencia.
 
+[.signed-section-signature]
 Diario de Richard Davies
+
+--

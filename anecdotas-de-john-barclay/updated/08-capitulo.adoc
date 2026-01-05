@@ -1,11 +1,13 @@
 == Capítulo VI
 
+[.centered]
 === El Almirante Tyrrell
 
 Samuel Fothergill, encontrándose en Scarborough,
 vio que el almirante Tyrrell asistió a varias reuniones de los Amigos en ese lugar,
 y tomó particular nota de la solemnidad y reverencia del comportamiento del
 almirante durante la reunión, especialmente en el tiempo de silencio.
+
 Poco después de esto, el almirante se acercó a Samuel, en los salones comunes,
 delante de muchos miembros de la nobleza y de la alta sociedad, y dijo: "`Sr. Fothergill,
 tengo una muy alta opinión de los principios y prácticas de su pueblo,
@@ -22,6 +24,7 @@ dispensación de la Sabiduría infalible ha de tener un comienzo,
 Y en cuanto a lo que ustedes sostienen sobre una unión y comunión con el divino Instructor,
 sé por feliz experiencia, que es algo alcanzable en este tiempo;
 y ahora se me ocurre un ejemplo de ello.`"
+
 "`Cuando tuve el honor de comandar tres de los buques
 de guerra de su majestad como comodoro,
 un poco antes de que concluyera la última paz,
@@ -40,6 +43,7 @@ y que estaba seguro de la victoria.
 Se preparó todo,
 y el resultado demostró la certeza de aquella misericordiosa advertencia;
 habiendo obtenido plena victoria, como se relata en la historia de aquella guerra.`"
+
 Los detalles de esta conversación fueron contados por Samuel Fothergill a un Amigo,
 mientras viajaban juntos en su camino desde Londres tras la reunión anual de 1770;
 y habiendo sido publicados,
@@ -48,6 +52,7 @@ de esta colección. Este relato transmite una ilustración muy clara
 de la perspectiva que adoptamos respecto al tema de la guerra,
 y al mismo tiempo sirve de confirmación para quienes creen
 en las manifestaciones del Espíritu Santo.
+
 No podemos considerar que estas manifestaciones, o revelaciones de la voluntad divina,
 estén limitadas a una época del mundo, ni a un grupo específico de personas,
 ni siquiera a un momento particular en la vida de un hombre; tampoco podemos,
@@ -65,6 +70,7 @@ si él continúa conociendo al Señor, y así cree y permanece en Él,
 será finalmente aceptado por Él. Sin este aliento celestial de vida en él,
 el pobre hombre está como muerto;
 no puede avanzar un solo paso en el camino de la salvación.
+
 ¡Cuán grande es, pues, el don gratuito y universal de Dios en Su Hijo,
 el "`Espíritu vivificante,`"^
 footnote:[1 Corintios 15:45]
@@ -91,6 +97,7 @@ igualmente en deuda con el Autor de todo bien,
 por la directa extensión de Su bendición--es decir, por la capacidad de entender,
 aplicar y poner en práctica Su esencial Verdad salvadora, la cual es la misma ayer,
 hoy y por los siglos.
+
 Las breves observaciones recién expresadas referentes solo
 a algunos aspectos de este tema tan importante y extenso,
 espero que no sea de tropiezo para ningún buscador sincero en el camino a Sion.
@@ -102,6 +109,7 @@ sea prudente al sacar conclusiones de este breve pasaje, no sea que, sin motivo,
 atribuya error a sus hermanos profesantes del cristianismo.^
 footnote:[El Cristiano Cuáquero, de William Penn,
 transmite mucha información e instrucción relacionada con este tema.]
+
 Puede añadirse una observación más a lo anterior.
 Muchos que concuerdan con nosotros en estas cosas,
 no alcanzan a ver tan plenamente como el almirante,
@@ -127,7 +135,11 @@ por consiguiente, tal que, en todos los aspectos, es conforme al evangelio de Cr
 pues profesan caminar con Dios, creer en Él y sentir Su presencia,
 un Dios verdaderamente cercano en los corazones de sus hijos dependientes.
 
+[.centered]
 === George Fox y el Papista
+
+[.embedded-content-document]
+--
 
 Mientras me encontraba en Londres +++[+++en el año 1668],
 fui un día a visitar al que llamaban el esquire^
@@ -149,6 +161,7 @@ por el único Espíritu en un solo cuerpo;
 pero que echar un poco de agua sobre el rostro de
 los niños y decir que eso era bautizarlo y cristianizarlo,
 no tenía fundamento en las Escrituras.
+
 Luego me preguntó si reconocía la fe católica.
 Le dije que sí, pero añadí que ni el papa ni los papistas están en la fe católica;^
 footnote:[La palabra católica significa universal.]
@@ -167,6 +180,7 @@ prisiones o multas para perseguir y obligar a los que no eran de su propia fe
 a entrar en su religión. Esta no fue la práctica de los apóstoles ni de los cristianos
 primitivos (quienes dieron testimonio y gozaron de la verdadera fe de Cristo),
 sino la de los judíos incrédulos y de los paganos.
+
 "`Pero,`" continué, "`viendo que eres un hombre prominente entre los papistas,
 enseñado y formado bajo la autoridad del papa;
 y que dices que no hay salvación sino en su iglesia, quiero saber de ti,
@@ -187,6 +201,7 @@ Esta gracia, que trae salvación,
 enseña a "`renunciar a la impiedad y a los deseos mundanos, y a vivir sobria,
 justa y piadosamente.`"
 Así que, no son las buenas obras, ni una buena vida lo que trae salvación, sino la gracia.
+
 "`¿Qué?`" dijo el papista,
 "`¿esta gracia que trae salvación se manifiesta a todos los hombres?`"
 "`Sí,`" le respondí. "`Entonces,`" dijo, "`niego eso.`"
@@ -208,6 +223,7 @@ donde tuvo lugar la gran conversión al cristianismo por medio de Pedro,
 donde se hallaban los tipos, figuras y sombras que Cristo cumplió,
 y donde Cristo mandó a sus discípulos a esperar hasta
 ser investidos con poder de lo alto.
+
 Si algún lugar externo mereciera ser llamado madre,
 ese sería el lugar donde ocurrió la primera gran conversión al cristianismo.
 Pero el apóstol dice: "`La Jerusalén actual, junto con sus hijos está en esclavitud.
@@ -227,9 +243,17 @@ que vive y permanece para siempre,`" se alimentan
 de la "`leche de la Palabra,`" el pecho de vida,
 crecen en la vida por ella,
 y no pueden reconocer otra madre sino la Jerusalén de arriba.
-Del diario de George Fox
 
+[.signed-section-signature]
+_Del diario de George Fox_
+
+--
+
+[.centered]
 === Relato de Thomas Ellwood Sobre su Matrimonio
+
+[.embedded-content-document]
+--
 
 Siempre había tenido tan en alta estima el matrimonio,
 como institución divina, que nunca consideré lícito convertirlo en
@@ -238,19 +262,21 @@ Y por tanto, así como no podía sino reprobar en mi juicio a aquellos
 que se proponían como objetivo andar tras,
 y procurar conseguir,
 esposas que fueran tenidas por "`grandes fortunas;`"
-sin preocuparse tanto de lo que ella es,
-sino de lo que tiene, haciendo así de la riqueza lo principal, si no lo único,
+sin preocuparse tanto de lo que ella _es,_
+sino de lo que _tiene,_ haciendo así de la riqueza lo principal, si no lo único,
 a lo que aspiraban:--así resolví evitar en mi propia práctica tal camino.
 Y aunque mi condición pudiera, como a otros,
 haberme impulsado a buscar ventaja de ese modo,
 determiné nunca comprometerme por motivo de riquezas, ni en modo alguno casarme,
 hasta que un afecto juicioso me llevara a ello;
 afecto que ahora comenzaba a experimentar en mi pecho.
+
 El objeto de este afecto era una Amiga llamada Mary Ellis,
 a quien había tratado durante varios años únicamente en términos de amistad;
 y en quien creí ver entonces aquellas nobles huellas de la Verdad y de la virtud sólida,
 que después encontré en ella en grado sublime; pero en cuanto a su condición en el mundo,
 respecto a bienes, yo lo ignoraba por completo, ni deseaba saberlo.
+
 Una vez, uno o dos años antes,
 tuve la oportunidad de prestarle un pequeño servicio en algo en que necesitaba ayuda;
 y en ello actué con toda sinceridad y libertad de mente,
@@ -264,15 +290,17 @@ y seguro de la mía--de una relación entre nosotros
 más allá de la de una amistad sincera y leal;
 ni nos condujo entonces a una conversación más cercana,
 ni a una intimidad mayor entre nosotros que la que ya teníamos.
+
 Pero después de un tiempo considerable,
 hallé que mi corazón se sentía secretamente inclinado y atraído hacia ella.
 Sin embargo, no me apresuré en proponer nada,
 sino que esperé sentir una convicción interior satisfactoria
 al respecto antes de dar cualquier paso.
+
 Al cabo de un tiempo,
 encontré una oportunidad para abrir mi corazón a mis muy honorables amigos,
 Isaac y Mary Penington,
-quienes entonces ocupaban para mí el lugar de padres (paretum loco).
+quienes entonces ocupaban para mí el lugar de padres (_paretum loco_).
 Ellos, tras sopesar con solemnidad el asunto, expresaron su conformidad con ello;
 y en verdad, su aprobación fue para mí una gran confirmación. No obstante,
 tomé más tiempo para reflexionar,
@@ -284,6 +312,7 @@ sentí que una palabra se levantaba dulcemente en mí,
 como si hubiera oído una voz que decía: "`Ve, y prevalece.`"
 Y brotando la fe en mi corazón con aquella palabra, me levanté de inmediato y fui,
 sin dudar en lo más mínimo.
+
 Ya en su hogar, que estaba a casi dos kilómetros de la mía,
 le pedí a la criada que le hiciera saber a su señora que había llegado a visitarla;
 tras lo cual fui invitado a subir.
@@ -295,12 +324,15 @@ Pues ella había asumido, como también lo habían hecho otros,
 que mis ojos estaban puestos en otro lugar, y más cerca de casa.
 No le dije muchas palabras; pero sentí que un poder divino acompañaba las palabras,
 y que lo expresado quedó tan firmemente arraigado en su pecho que,
-como después me confesó, no pudo apartarlo de sí. Mi visita fue breve.
+como después me confesó, no pudo apartarlo de sí.
+
+Mi visita fue breve.
 Pues, habiéndole hecho mi propuesta,
 le dije que no esperaba una respuesta de ella en ese momento;
 sino que deseaba que la sopesara de la manera más solemne,
 y a su debido tiempo me diera la respuesta que el Señor le otorgara.
 Me despedí de ella y me fui, dejando el resultado en manos del Señor.
+
 Tenía entonces un viaje por delante, que preveía me tomaría cerca de dos semanas.
 Por tanto, el día antes de partir fui a visitarla de nuevo,
 para informarle de mi viaje y disculpar mi ausencia;
@@ -313,6 +345,7 @@ que no podría haber dejado aquello en mejores manos;
 pues el Señor había sido mi abogado en mi ausencia,
 y había respondido tan bien a todas sus objeciones, que, cuando acudí a ella de nuevo,
 me las comunicó sin defenderlas.
+
 Desde entonces nos tratamos con afectuosa ternura, con miras al matrimonio; al cual,
 sin embargo, no nos apresuramos, sino que fuimos avanzando con prudencia.
 Tampoco usé aquellos métodos comunes de cortejo,
@@ -320,6 +353,7 @@ que consisten en hacer frecuentes y costosos regalos;
 no sólo porque mi situación externa no me lo permitía,
 sino porque no me agradaba obtener algo por tales medios,
 y prefería un afecto sin sobornos.
+
 Continué visitando a mi más querida amiga hasta que nos casamos,
 lo cual ocurrió en el año 1669.
 Nos unimos en una reunión selecta de los ancianos y piadosos Amigos de aquella región,
@@ -332,7 +366,13 @@ en el cual sentimos de manera palpable que el Señor estaba con nosotros y nos u
 sensación que permaneció con nosotros toda nuestra vida,
 y que fue de gran provecho y muy consoladora en toda ocasión.
 
+--
+
+[.centered]
 === Extracto del Diario de George Fox
+
+[.embedded-content-document]
+--
 
 Cerca del año 1660 recibimos un informe de Nueva Inglaterra,
 que decía que el gobierno de aquel lugar había hecho una ley para
@@ -354,6 +394,7 @@ porque no sabemos cuántos vayan a ser ejecutados pronto.`"
 El rey respondió: "`Tan pronto como ustedes lo deseen.
 Llamen,`" dijo a algunos de los presentes, "`al secretario y lo haré en seguida.`"
 El secretario fue llamado, y un mandato real fue concedido de inmediato.
+
 Uno o dos días después,
 Edward Burrough regresó a ver al rey para pedirle que se acelerara el asunto,
 y el rey le dijo que por el momento no tenía ocasión de enviar un barco a Nueva Inglaterra;
@@ -375,6 +416,7 @@ tanto de Nueva como de Vieja Inglaterra,
 Amigos a quienes el Señor había movido a ir y dar
 testimonio contra aquellos sangrientos perseguidores,
 que habían sobrepasado en esa época a todo el mundo en sus sangrientas persecuciones.
+
 Los habitantes de Boston,
 al ver que una embarcación con colores ingleses entraba a la bahía,
 subieron rápidamente a bordo, y preguntaron al comandante si traía cartas.
@@ -391,6 +433,7 @@ El gobernador envió a un criado para enterarse del asunto;
 y ellos respondieron que su asunto era del rey de Inglaterra,
 y que no le darían su mensaje a nadie sino al propio gobernador.
 En seguida se les permitió entrar y el gobernador salió a recibirlos.
+
 Tras haber recibido la autorización y el mandato real,
 se quitó el sombrero y los miró. Luego salió, ordenó a los dos Amigos que lo siguieran,
 fue donde el vicegobernador, y tras una breve consulta, volvió y les dijo:
@@ -408,11 +451,19 @@ su gozo y los hizo elevar sus corazones en exaltaciones a Dios,
 quien es digno por siempre de alabanza, gloria y honor; pues sólo Él puede librar,
 salvar y sostener a todos los que confían sinceramente en Él.
 
+--
+
+[.centered]
 === El Predicador Analfabeto
 
+[.offset]
 John Churchman, en su visita a Nueva Inglaterra en 1742,
 tuvo una reunión cerca de Newberry.
 De esta reunión dice:
+
+[.embedded-content-document]
+--
+
 Fui movido a hablar brevemente sobre el inicio de la Reforma--que se apartó
 de los errores de la iglesia de Roma--y de los sufrimientos de los protestantes,
 particularmente en Inglaterra,
@@ -424,11 +475,13 @@ con la esperanza de disfrutar de ese derecho razonable, la libertad de conscienc
 Pero, olvidando la ley de oro de hacer a los demás como quisieran que les hicieran a ellos,
 se convirtieron en perseguidores del pueblo llamado Cuáqueros,
 llegando incluso a causar la muerte de varios de ellos.
+
 Sentí hablar sobre la naturaleza y el fundamento de la persecución,
 y la gran inconsistencia que ésta tiene con el cristianismo.
 Varios de los presbiterianos se encontraban presentes; y un hombre mayor de Newberry,
 uno de sus líderes, y un anciano entre ellos,
 pidió hablar conmigo apenas terminó la reunión.
+
 Habiéndome retirado a un pequeño salón,
 un Amigo me informó que el anciano quería ser admitido para hablar conmigo,
 a lo que no sentí ninguna objeción, pues estaba tranquilo y sereno en mi mente,
@@ -450,6 +503,9 @@ pero te aseguro que, aunque he sido funcionario de la parroquia,
 nunca he tomado nada de tus amigos Cuáqueros, pues estoy en contra de la persecución;
 así que Dios te bendiga en tu viaje.`"
 
+--
+
+[.centered]
 === Visita a Weiwart
 
 La siguiente narración fue escrita por William Penn,
@@ -462,6 +518,10 @@ dirección y asistencia de su santo Líder) a la expansión
 y esparcimiento del reino de Cristo,
 ese bendito reino que es declarado ser "`justicia, paz, y gozo en el Espíritu Santo.`"^
 footnote:[Romanos 14:17]
+
+[.embedded-content-document]
+--
+
 Habiéndonos refrescado con algo de comida, tomamos un carruaje para Wiewart,
 la mansión de la familia de Somerdykes, donde residía la compañía Jean de Labadie,^
 footnote:[En otra parte del diario de William Penn describe a esta persona de esta manera.
@@ -510,9 +570,11 @@ Aquella noche sentí un gran peso sobre mi espíritu, y aún más a la mañana s
 sin embargo, mi fe estaba en el poder de Dios,
 y tenía un claro sentir de que tendría un buen servicio entre ellos,
 de que despejaría mi conciencia, y de que mi paz descansaría conmigo.
+
 La mañana siguiente regresé donde ellos, acompañado de John Claus.
 Tan pronto llegamos, nos llevaron al apartamento de Anna Maria Schurman,
 donde también se encontraba una de las tres Somerdykes.
+
 Anna Maria Schurmans tiene más de sesenta años,
 y es muy conocida y célebre por sus conocimientos y estudios en idiomas y filosofía,
 habiendo alcanzado un lugar reconocido entre los hombres más eruditos de su época.
@@ -523,6 +585,7 @@ contra las iglesias muertas y formales del mundo,
 y despertadas a buscar una comunión y sociedad más espirituales,
 se separaron de las iglesias calvinistas comunes y lo siguieron
 en el camino de una independencia más depurada.
+
 Son un pueblo serio y sencillo,
 y se han acercado más a los Amigos en cuanto a las reuniones en silencio,
 la participación de las mujeres, la predicación por el Espíritu,
@@ -533,6 +596,7 @@ les pregunté qué los había impulsado a separarse
 de la manera común en que antes habían vivido.
 Les pedí que fueran claros y abiertos conmigo en cuanto al motivo de su separación;
 pues no había venido a poner objeciones, sino, en espíritu cristiano, a informarme.
+
 Ante esto, Ivon, el pastor principal,
 nos relató la historia de la educación de Jean de Labadie,
 cómo había sido formado entre los jesuitas,
@@ -540,6 +604,7 @@ los había abandonado y había abrazado la religión protestante,
 así como la gran insatisfacción que había sentido con las iglesias protestantes.
 Añadió varios testimonios solemnes sobre la sencillez e
 integridad de sus corazones en estas cuestiones.
+
 Una vez que Ivon terminó, Anna Maria Schurmans continuó. Nos habló de su vida pasada,
 de su placer por aprender y de su amor por la religión en la que había sido educada;
 pero confesó que durante ese tiempo no había conocido verdaderamente a Dios ni a Cristo.
@@ -554,6 +619,7 @@ entre quienes anhelaba ser hallada como un sacrificio vivo,
 enteramente ofrecido al Señor. Habló de manera muy seria y conmovedora,
 no sin cierto temblor.
 Éstas son breves referencias de lo que dijo.
+
 Luego, una de las Somerdykes comenzó, en un estado de ánimo muy reverente y serio,
 que correspondía plenamente con su desprecio del mundo.
 Nos contó cuán a menudo había lamentado desde su juventud,
@@ -568,6 +634,7 @@ los vanos deleites en que viven los cristianos! ¿Puede ser éste el camino al c
 ¡Oh no!
 Oh Dios, ¿dónde está tu manada pequeña que vive enteramente para Ti, y que Te sigue?
 Hazme una de ese número.`"
+
 "`Y cuando`"--continuó ella--"`el siervo del Señor, Jean de Labadie, llegó a Holanda,
 yo, entre otros, sentí curiosidad por escucharlo,
 y junto con varios quedé profundamente afectada.
@@ -580,9 +647,11 @@ Me considero muy dichosa de haberlo conocido,
 y a estos pastores que no se buscan a sí mismos,
 sino al Señor. Somos una familia que vive unida en amor, en una misma alma,
 un mismo espíritu, entregada a servir al Señor; y éste es el mayor gozo del mundo.`"
+
 Después, Du Lignon, el otro pastor,
 también nos dio un relato de los motivos que lo llevaron a seguir a Jean de Labadie,
 aunque de manera menos vívida.
+
 Después de él, habló el doctor en medicina, que había sido educado para ser sacerdote,
 pero que voluntariamente había rechazado ese llamado;
 y se expresó de la siguiente manera:
@@ -598,8 +667,10 @@ fue para mí como el día de mi salvación;
 tocó mi corazón tan vívidamente con un sentido de verdadera adoración cristiana,
 que abandoné la universidad y decidí pertenecer a esta familia.
 Y lo puedo decir en el temor del Señor.`"
+
 Luego, Ivon concluyó:
 "`Esto es lo que tenemos que decir respecto a la obra de Dios entre nosotros.`"
+
 Durante todo ese tiempo, no prestaba tanta atención a sus palabras,
 sino al sentimiento de unidad que tenía con la medida
 del sentido divino que estaba sobre ellos.
@@ -607,11 +678,15 @@ Ciertamente, el Señor ha estado entre ellos; sí,
 tuve un sentido vivo en mi corazón de que algo del
 aliento de vida había soplado sobre ellos,
 y aunque había en ellos gran mezcla, el amor de Dios estaba hacia ellos.
+
+[.offset]
 Después de un silencio, comencé de esta manera:
+
 "`No vengo a juzgarlos, sino a visitarlos; no a contender ni a disputar,
 sino a hablar de las cosas del reino de Dios; y no tengo prejuicios,
 sino gran amor y estima en mi corazón hacia ustedes.
 Por tanto, óiganme con paciencia y ternura cristiana.`"
+
 "`Confieso y creo que Dios ha tocado sus corazones con Su dedo divino,
 y que Su obra está entre ustedes;
 que fue Su Espíritu quien les mostró la vanidad y necedad de este mundo,
@@ -624,12 +699,14 @@ con todos los rumores que por ello circulan acerca de ustedes,
 son justamente por lo que los respeto,
 pues conozco muy bien la naturaleza y práctica de
 este mundo hacia quienes se apartan de él.`"
+
 "`Ahora que he escuchado con paciencia--y puedo decir sinceramente,
 con gran satisfacción--el relato de sus experiencias,
 concédanme la misma libertad cristiana para compartirles las mías,
 a fin de que puedan comprender algo de la obra de Dios en mí;
 porque aquellos que han alcanzado alguna medida del sentido divino,
 son como espejos unos para otros, así como el rostro responde al rostro en un espejo.`"
+
 Aquí comencé a contarles cómo y cuándo se me había aparecido el Señor por primera vez,
 lo cual había ocurrido cuando tenía doce años, en 1656.
 Cómo, en ocasiones, entre esa edad y los quince años, el Señor me había visitado,
@@ -652,6 +729,7 @@ y había estado incluso dispuesto a rendirme a ella,
 al no ver aún nada del espíritu y la iglesia primitivos sobre la tierra;
 y cómo estuve a punto de desfallecer respecto a mi
 esperanza en la restitución de todas las cosas.
+
 Fue durante este tiempo que el Señor me visitó con
 un cierto sonido y testimonio de su eterna Palabra,
 mediante uno de aquellos que el mundo llama Cuáqueros, a saber, Thomas Loe.
@@ -661,6 +739,7 @@ lo extraño que me consideraban todos mis compañeros;
 qué señal y maravilla hicieron de mí; pero sobre todo,
 aquella gran cruz de resistir y velar contra mis propios
 y vanos afectos y pensamientos interiores.
+
 Aquí tuve una buena oportunidad para hablar del misterio
 de iniquidad y de impiedad en su raíz y fundamento,
 y para darles cuenta del poder y la presencia de Dios que nos acompañaban
@@ -680,6 +759,7 @@ el Señor me había preservado hasta este día y me había dado ciento por uno e
 así como la certeza de la vida eterna; informándoles de la ternura de mi padre hacia mí,
 antes y a la hora de su muerte, y de cómo, mediante paciencia y longanimidad,
 toda oposición había sido conquistada.
+
 Luego comencé mi exhortación hacia ellos, de la siguiente manera: Que,
 puesto que Dios nos había dado a mí y a ellos un sentido divino de Sí mismo,
 nuestra mirada debía estar puesta en Él y no en el hombre;
@@ -718,6 +798,7 @@ reposar del mero hombre y del espíritu del hombre, y de todos los pensamientos,
 palabras y obras de los hombres; y que, si eran verdaderos creyentes,
 al menos ya estaban entrando en su reposo.^
 footnote:[Hebreos 4: 1, 3]
+
 Les recomendé encarecidamente que no fueran de aquellos
 que comienzan en el Espíritu y acaban en la carne.^
 footnote:[Gálatas 3:3]
@@ -726,6 +807,7 @@ permitan que sea Él quien predique y hable entre ustedes, en ustedes y ustedes 
 y que solo por Él suspiren, oren, giman, canten, y no de otro modo,
 no sea que la muerte venga sobre ustedes; porque así entró la apostasía,
 por ir delante de Cristo, en lugar de dejar que Cristo fuera delante de ellos.`"
+
 Además les aconsejé que esperaran en la Luz y en
 el Espíritu de juicio que los había visitado,
 para que todo lo que no había nacido de Dios fuera desarraigado;
@@ -741,6 +823,7 @@ Dirigiéndome a las Somerdykes, con espíritu serio y tierno, les hablé:
 deben ser peregrinas en la herencia de su Padre.
 ¡Oh, que puedan morar con Él para siempre, y exaltar a Aquel que las ha visitado,
 con quien están las recompensas de la bienaventuranza eterna!`"
+
 Así dejé entre ellos la bendición y la paz de Jesús,
 marchándome en el amor y la paz de Dios;
 y debo decir que ellos fueron más tiernos y respetuosos con nosotros de lo que esperábamos.
@@ -759,12 +842,14 @@ para que Él pudiera ser todo en todos.
 Deseé que el Señor los guardara en Su temor todos los días del tiempo que había determinado,
 para que así Le sirvieran en su generación, en Su propio Espíritu universal,
 para Su gloria, ¡quien es bendito por siempre!
+
 El Señor consoló mi alma en este servicio; sí,
 todo lo que hay dentro de mí magnificó Su Santo nombre,
 por causa de Su bendita presencia que estaba con nosotros.
 ¡Oh, que mi alma confíe y repose en el Señor para siempre! ¡Oh,
 que pueda morar y permanecer con Aquel que es fiel y verdadero,
 y bendito por los siglos de los siglos!
+
 Los dos pastores y el doctor caminaron con nosotros la distancia de un campo,
 donde tomamos el carruaje;
 y el mayor de ellos aprovechó la ocasión para preguntarme si la
@@ -784,11 +869,18 @@ y que era nuestro cuidado escribir y hablar conforme al sentido divino,
 y no según la invención humana.
 Y así, de una manera muy sobria y seria, nos despedimos.
 
+--
+
+[.centered]
 === Panfleto de Samuel Fothergill
 
-La Selección de Anécdotas concluirá con un pequeño extracto
+Esta Selección de Anécdotas concluirá con un pequeño extracto
 de un panfleto polémico escrito por Samuel Fothergill,
 fechado en el año 1763.
+
+[.embedded-content-document]
+--
+
 Un cierto número de personas en el siglo diecisiete,
 que fueron hechas conscientes de la inutilidad de una profesión religiosa vacía,
 y habiendo buscado largamente al que vive entre los muertos,
@@ -801,6 +893,7 @@ y famélicas entre la multiplicidad de formas.
 Su condición era semejante a la de aquella pobre mujer mencionada en Marcos 5:26,
 que "`había sufrido mucho de muchos médicos, y había gastado todo lo que tenía,
 y no había mejorado, antes le iba peor.`"
+
 En esta condición afligida--trabajados y cargados--permanecieron sin
 ninguna esperanza de alivio mediante ritos y observancias externas,
 cuya ineficacia habían comprobado tras largas pruebas; por lo tanto, se volvieron a Dios,
@@ -823,6 +916,7 @@ Yo reconozco libre y públicamente que,
 a pesar del desprecio derramado sobre el nombre de Cuáquero,
 preferiría sostener ese nombre con propiedad que cualquier otro
 de los títulos más dignos entre los hijos de los hombres.
+
 Pero, para continuar: una medida de luz divina resplandeció sobre sus mentes,
 mostrándoles en qué consistía la ayuda esencial,
 la cual iba acompañada de fe en el nombre de Jesucristo,
@@ -839,3 +933,8 @@ con benevolencia por un Dios que oye las oraciones.
 despertó en millares la misma hambre religiosa,
 y mediante el bautismo del Espíritu Santo los unió como hombres de un solo corazón.
 A esto debemos nuestra existencia como un pueblo apartado de los demás.
+
+--
+
+[.the-end]
+Fin

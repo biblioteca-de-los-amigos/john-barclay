@@ -1,12 +1,6 @@
 == Capítulo II
 
-El Amigo y el Ladrón--Relato de Algunos Indios--Viajes y Aflicciones
-de George Whitehead--La Predicación de Edward Burrough--El Celo
-Cristiano--Simplicidad del Evangelio--Thomas Chalkley:
-Sobre el Uso de la Espada--John Churchman:
-Sobre los Nombres de los Días de la Semana--Un Vistazo a una Reunión
-Trimestral--Relato de la Fiebre Pestilente en Filadelfia en 1699.
-
+[.centered]
 === El Amigo y el Ladrón
 
 El valor y la capacidad de mantener la calma que exhibe el verdadero soldado de Jesucristo,
@@ -55,6 +49,7 @@ siguió su camino,
 dejando a Leonard disfrutando la paz que acompañó al sincero descargo de su consciencia,
 que obtuvo al no considerar su vida como preciada.
 
+[.centered]
 === Relato de John Woolman
 
 En su diario, John Woolman ofrece el siguiente relato instructivo, el cual, creemos,
@@ -67,6 +62,9 @@ al contemplar el cristianismo genuino y primitivo,
 y que examinen en qué medida, como individuos,
 están contribuyendo con sus vidas y conductas al crecimiento de esa vanidad,
 orgullo y mentalidad terrenal que son demasiado comunes.
+
+[.embedded-content-document]
+--
 
 En nuestra reunión anual en Filadelfia, el veinticinco del noveno mes de 1764,
 John Smith, de Marlborough, de más de ochenta años, un ministro fiel,
@@ -101,12 +99,18 @@ que el Señor deseaba sacar a su pueblo de esas cosas en las que se había degen
 pero que sus fieles siervos debían atravesar primero
 grandes y difíciles ejercicios para lograrlo.
 
+--
+
+[.centered]
 === Extracto del diario de Thomas Story
 
 En sus viajes, Thomas Story llegó al pueblo de Mildorp en Alemania,
 y se quedó allí para descansar.
 Él y Pieter Leendaars se dirigieron a un lugar de adoración que estaba abierto,
 y que pertenecía a los Luteranos, de lo cual escribe en su diario como sigue:
+
+[.embedded-content-document]
+--
 
 Observamos varios cuadros e imágenes (según dicen) de Cristo en diversas condiciones,
 como en la cruz, en la resurrección, etc. y una de ellas era completamente dorada.
@@ -133,6 +137,9 @@ al ser la gracia salvadora y luz de Cristo para todas las personas.`"
 Esto le pareció extraño, basado en el aspecto de su rostro, sin embargo,
 considero que correspondía a lo que sentía en su conciencia, porque no dijo más.
 
+--
+
+[.centered]
 === Relato de Algunos Indios
 
 Entre muchos ejemplos que tienden a demonstrar la operación
@@ -145,7 +152,7 @@ mediante la cual el corazón cambiaba de malo a bueno.
 Cuando les pidieron unirse a otros indios en la guerra contra los ingleses,
 lo rechazaron rotundamente, sin importar las consecuencias para ellos,
 incluso si los indios que combatían los hacían esclavos, o como ellos lo expresaban,
-negros, y alegaron lo siguiente: que cuando Dios había creado a los hombres,
+_negros_, y alegaron lo siguiente: que cuando Dios había creado a los hombres,
 Su intención no había sido que ellos se lastimaran o se mataran unos a otros.^
 footnote:[Ellos han continuado en esta manera de vivir aproximadamente treinta años,
 pese a los malos tratos que han recibido de los indios y de otros.
@@ -161,6 +168,9 @@ Tras conversar con ellos respecto a sus perspectivas religiosas,
 uno que había sido el instrumento principal para
 hacerlos volver al entendimiento del bien,
 relató en resumen lo siguiente:
+
+[.embedded-content-document]
+--
 
 Que por una providencia particular, había sido sometido a dificultades y dolor,
 y llevado a una profunda consideración del estado de las cosas en el mundo;
@@ -194,7 +204,7 @@ bajo la cual él mismo había sufrido por tanto tiempo.
 Que esta consciencia de la corrupción de la naturaleza humana,
 junto con una constante súplica a su Creador,
 para que eliminara la maldad y la dureza del corazón, y lo hiciera suave y bueno,
-era lo que él llamaba religión; y que tras sentir el poder de Dios para su consuelo,
+era lo que él llamaba _religión;_ y que tras sentir el poder de Dios para su consuelo,
 se preocupaba de exhortar a sus hermanos a que buscaran
 la experiencia de ello en ellos mismos.
 Y también añadió, que bajo estos tratos de Dios,
@@ -236,8 +246,12 @@ y lo lleva a una verdadera contrición y sumisa rendición a la voluntad de Dios
 Este ha sido siempre el resultado de Su operación en todos los que, al entregarse a Dios,
 se convierten en los verdaderos seguidores y discípulos de Jesucristo.
 
-Extracto del Prefacio de A. Benezet al libro The Plain Path to Christian Perfection
+[.signed-section-signature]
+Extracto del Prefacio de A. Benezet al libro _The Plain Path to Christian Perfection_
 
+--
+
+[.centered]
 === Viajes y Aflicciones de George Whitehead
 
 Los miembros de nuestra Sociedad, quienes hoy en día gozan de una vida tranquila y fácil,
@@ -280,6 +294,9 @@ sin embargo, se curaron mientras viajaba`". Estuvo en Cambridge dos o tres días
 y de ahí se fue a Wymondham,
 que no podía estar a menos de cincuenta millas según los cálculos,
 y a Norwich al siguiente día.
+
+[.embedded-content-document]
+--
 
 El hecho de que se nos cerraran las puertas de nuestras
 casas de reunión durante varios años,
@@ -329,7 +346,13 @@ creyendo que a su debido tiempo obtendríamos la victoria.
 A menudo tenía ante mí, que el Cordero y sus fieles seguidores obtendrían la victoria,
 lo cual me consoló muchas veces en lo secreto; gloria a Su nombre por siempre.
 
+--
+
+[.centered]
 === La Predicación de Edward Burrough
+
+[.embedded-content-document]
+--
 
 Aunque joven, era un hombre de inconmovible valentía,
 y el Señor lo puso por encima del temor de sus enemigos.
@@ -352,14 +375,18 @@ Y lo que dijo a continuación fue tan adecuado para la discusión entre ellos,
 que toda la multitud quedó abatida; se tranquilizaron, prestaron atención,
 y se marcharon en paz y con aparente satisfacción.
 
-Memorias de William Grouch
+[.signed-section-signature]
+_Memorias de William Crouch_
 
+--
+
+[.centered]
 === El Celo Cristiano
 
 James Gough, en el relato de su propia vida, cuenta de John Ashton de Kilconimore,
 (quien era un anciano cuando James Gough lo conoció) diciendo:
-"`Cuando él y su esposa estaban en libertad^
-footnote:[Él estuvo en prisión por diezmos, poco después de su convencimiento.],
+"`Cuando él y su esposa estaban en libertad,^
+footnote:[Él estuvo en prisión por diezmos, poco después de su convencimiento.]
 asistían consistentemente a la reunión en Birr dos veces por semana.
 Por lo general,
 llegaban caminando hasta allí--aproximadamente siete
@@ -372,6 +399,7 @@ En esos días la Verdad era preciosa para sus profesantes, quienes además la po
 y ninguna dificultad o peligro podía impedirles llegar a sus reuniones religiosas,
 para gozar con sus hermanos la renovación del amor y de la vida divinos.`"
 
+[.centered]
 === Simplicidad del Evangelio
 
 El escritor antes mencionado brinda una vívida ilustración
@@ -379,6 +407,9 @@ de los efectos prácticos de esa unción divina,
 energía santa, o principio interno de acción,
 por el que nuestra Sociedad siempre se ha caracterizado, en mayor o menor medida.
 Lo siguiente es un pasaje del mismo diario:
+
+[.embedded-content-document]
+--
 
 La Verdad siempre nos ha conducido a la integridad, puntualidad,
 y al trato recto en nuestros asuntos externos; a limitarnos a unas pocas exigencias,
@@ -405,12 +436,18 @@ cuando empezó a hospedar a los Amigos viajeros (ya que la mayor parte
 de aquella reunión se había ido a Pennsylvania) sólo tenía una cama,
 la cual se las dejaba, y él y su esposa se alojaban en el establo.
 
+--
+
 Nuestros predecesores en la profesión religiosa,
 eran notablemente reconocidos por su hospitalidad y desinterés,
 que parecía levantarse en ellos evidentemente de un arraigado sentido del deber
 religioso y de ese amor cristiano que los constreñía poderosamente.
 
+[.centered]
 === Thomas Chalkley: Sobre el Uso de la Espada
+
+[.embedded-content-document]
+--
 
 Cuando me encontraba en Barbados,
 P+++.+++ M. me acompañó de Bridgetown a la casa del abogado Week,
@@ -445,7 +482,13 @@ Y cuando nos separamos en Bridgetown,
 nos abrazamos con los brazos abiertos de amor cristiano,
 lejos de todo lo que podía lastimar o destruir.
 
+--
+
+[.centered]
 === John Churchman: Sobre los Nombres de los Días de la Semana
+
+[.embedded-content-document]
+--
 
 Antes de mi viaje a Holanda,
 había ido varias veces a la barbería de esta ciudad (Norwich), para que me afeitaran.
@@ -535,12 +578,18 @@ puro de la Verdad que se les ha sido dado para que lo utilicen,
 algún día tengan su porción asignada con el siervo malo y negligente.^
 footnote:[Ver Mateo25: 24-26]
 
+--
+
+[.centered]
 === Anécdota de Thomas Chalkley
 
 Thomas Chalkley, de viaje en Nueva Inglaterra, relata que cerca del año 1704,
 los indios había sido muy bárbaros en la destrucción de los habitantes ingleses.
 A algunos les arrancaron la cabellera, y a otros les destrozaron el cerebro (hombres,
 mujeres y niños,) por lo que el pueblo estaba muy alarmado, tanto de noche como de día.
+
+[.embedded-content-document]
+--
 
 Pero +++[+++continúa él,]
 al gran Señor de todo le plació preservar a nuestros Amigos maravillosamente,
@@ -690,7 +739,8 @@ pues muchas veces he huido allí en busca de refugio.
 nuestro Salvador y Mediador, Jesucristo.
 Amén.`"
 
---Mary Doe
+[.signed-section-signature]
+Mary Doe
 
 Un vecino de las personas antes mencionadas +++[+++continúa Thomas Chalkley],
 me contó que mientras se encontraba en su trabajo en el campo,
@@ -710,6 +760,9 @@ Por lo general, la gente iba a caballo y acudía al lugar de adoración armada,
 pero los Amigos iban a sus reuniones sin espada ni pistola,
 puesta su confianza y seguridad en Dios.
 
+--
+
+[.centered]
 === La Raíz y el Fundamento de la Idolatría
 
 Mientras John Churchman realizaba una visita religiosa
@@ -737,6 +790,7 @@ que es la Fuente de la virtud viva`". "`Toda una lección`",
 dijo John Churchman "`que si se aprende correctamente,
 destetaría de la adoración de imágenes y de la veneración de reliquias`".
 
+[.centered]
 === Un notable testimonio del poder que acompañó el ministerio de nuestros primeros Amigos.
 
 Una persona de cierta notoriedad que había sido oficial bajo el cargo de Oliver Cromwell,
@@ -744,6 +798,9 @@ contó la anécdota a unas personas en una posada,
 entre las que se encontraba James Wilson, quien a partir de entonces,
 tuvo una opinión más favorable de los Amigos y estuvo dispuesto a asistir a sus reuniones,
 pues anteriormente había sentido muchos prejuicios contra ellos.
+
+[.embedded-content-document]
+--
 
 Tras la batalla de Dunbar, mientras cabalgaba en Escocia a la cabeza de mi tropa,
 observé a cierta distancia del camino una multitud de personas,
@@ -772,41 +829,54 @@ clamaban contra sí mismos implorando misericordia, clamando por un cambio compl
 y que toda la obra de salvación se llevara a cabo en ellos.
 Desde entonces, me he visto obligado a declarar a favor de ellos, como lo he hecho ahora.
 
+[.signed-section-signature]
 Del diario de James Gough
 
+--
+
+[.centered]
 === Un Vistazo a una Reunión Trimestral
 
 En Masham, Yorkshire, John Churchman se alojó en la casa de John Kelden,
 quien le contó algo que ocurrió entre un caballero del condado y uno de sus arrendatarios,
 un miembro de nuestra Sociedad religiosa, tal como se describe a continuación:
 
-Terrateniente: John, ¿entonces estás ocupado?
+[.discourse-part]
+_Terrateniente:_ John, ¿entonces estás ocupado?
 
-Arrendatario: Sí; a mi señor le gusta ver a sus arrendatarios ocupados.
+[.discourse-part]
+_Arrendatario:_ Sí; a mi señor le gusta ver a sus arrendatarios ocupados.
 
-Terrateniente: Pero John, ¿dónde estabas?,
+[.discourse-part]
+_Terrateniente:_ Pero John, ¿dónde estabas?,
 porque el otro día no estuviste en la reunión trimestral de York.^
 footnote:[Las sesiones de la corte en York siempre
 se celebraban a la misma hora de la reunión trimestral.]
 Vi a la mayoría de tus fieles Amigos allí, pero no a ti.
 
-Arrendatario: Bueno,
+[.discourse-part]
+_Arrendatario:_ Bueno,
 ya sabes que tengo un señor difícil de complacer que ama que sus
 arrendatarios prosperen en sus negocios y paguen su renta a tiempo,
 y yo tenía tanto trabajo entre manos que me obligó quedarme en casa.
 
-Terrateniente: ¿Quedarte en casa?
+[.discourse-part]
+_Terrateniente:_ ¿Quedarte en casa?
 No prosperarás ni pagarás más por descuidar tu deber, John.
 
-Arrendatario: Puedo ver que mi señor estuvo en la reunión trimestral.
+[.discourse-part]
+_Arrendatario:_ Puedo ver que mi señor estuvo en la reunión trimestral.
 ¿Te gustó?
 
-Terrateniente:
+[.discourse-part]
+_Terrateniente:_
 ¿Qué si me gustó? Estuve en una sola reunión y vi algo que me hizo doler el corazón.
 
-Arrendatario: ¿Y qué era?
+[.discourse-part]
+_Arrendatario:_ ¿Y qué era?
 
-Terrateniente: Bueno, la vestimenta de los jóvenes; los hombres con sus pelucas,
+[.discourse-part]
+_Terrateniente:_ Bueno, la vestimenta de los jóvenes; los hombres con sus pelucas,
 y las jóvenes con sus galas, imitando las modas.
 Entonces pensé que probaría otra reunión; así que al día siguiente fui de nuevo,
 y entonces concluí que había poca diferencia,
@@ -816,13 +886,21 @@ porque ustedes nos están imitando rápidamente en el amor y las modas del mundo
 Así que dije en mi corazón, este pueblo necesita un Fox, un Penn y un Barclay entre ellos.
 Y luego se alejó de su arrendatario.
 
+[.small-break]
+'''
+
 "`Pensé que sería una lástima`", añade John Churchman,
 "`que se perdiera la verdadera y muy acertada observación de este gran hombre,
 entendiendo que fue expresada más en compasión que en son de burla`".
 
+[.centered]
 === Relato de la Fiebre Pestilente en Filadelfia en 1699
 
-Tomado de la Vida de Thomas Story
+[.section-author]
+Tomado de [.book-title]#la Vida de Thomas Story#
+
+[.embedded-content-document]
+--
 
 Después de eso, celebramos reuniones en Jericó, Jerusalén y en otros lugares.
 Tuvimos una reunión en Newton en la que los Amigos se sintieron
@@ -1002,3 +1080,5 @@ sobre cuánto tiempo y cuán a menudo el Señor me había preservado, y con qué
 Pues no tengo ningún interés en el mundo, ni nada cuyo disfrute me haga desear vivir,
 excepto que le plazca al Señor y dador de la vida preservar la mía,
 hasta que esté más preparado para presentar mis cuentas delante de Él.
+
+--
