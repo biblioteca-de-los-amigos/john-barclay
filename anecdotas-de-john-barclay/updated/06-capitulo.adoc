@@ -10,7 +10,7 @@
 __"`Como Dios dijo: Habitaré y andaré entre ellos, y seré su Dios, y ellos serán mi pueblo.
 Por lo cual, salid de en medio de ellos, y apartaos, dice el Señor,
 y no toquéis lo inmundo; y yo os recibiré, y seré para vosotros por Padre,
-y vosotros me seréis hijos e hijas, dice el Señor Todopoderoso.`"__ 2 Corintios 6:16-17
+y vosotros me seréis hijos e hijas, dice el Señor Todopoderoso.`" --2 Corintios 6:16-17__
 
 Por medio de este llamado nuestros honorables predecesores, en el principio,
 fueron separados del espíritu y de los caminos del mundo,
@@ -580,6 +580,9 @@ y murió a la edad de ciento siete años.
 [.centered]
 === William Penn y la Niña Descalza
 
+[.embedded-content-document]
+--
+
 Mientras William Penn vivía en Pennsylvania,
 emprendió un viaje por la provincia y territorios como ministro del evangelio.
 Entre los lugares que visitó bajo este cargo estaba Haverford;
@@ -605,6 +608,8 @@ mayor estima por parte de los gobernados que William Penn.
 
 [.signed-section-signature]
 Los Viajes de Sutcliff
+
+--
 
 [.centered]
 === John Woolman y el Petirrojo
